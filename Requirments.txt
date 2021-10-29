@@ -1,4 +1,0 @@
-This is chat application.
-Emoji
-type app
-Vibrant
